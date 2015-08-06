@@ -1,0 +1,13 @@
+.testimonial {
+    background-image: url(../images/grey.jpg);
+    margin-bottom: -25px;
+    color: white;
+}
+
+.tpad {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 20px !important;
+    margin-right: 20px;
+}
